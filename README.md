@@ -3,4 +3,4 @@
 
 ## TABLA DE CONTENIDO
 
-[1. Límites y derivadas con Python](https://colab.research.google.com/github/josorio398/CALCULO-DIFERENCIAL-CON-PYTHON/blob/main/C%C3%A1lculo_diferencial_con_Python_l%C3%ADmites_y_derivadas_.ipynb)
+[1. Integrales definidas, integrales indefinidas y teorema fundamental del cálculo](https://colab.research.google.com/github/josorio398/CALCULO-INTEGRAL-CON-PYTHON/blob/main/C%C3%A1lculo_integral_con_Python_Integrales_indefinidas%2C_definidas_y_teorema_fundamental_del_c%C3%A1lculo_.ipynb)
