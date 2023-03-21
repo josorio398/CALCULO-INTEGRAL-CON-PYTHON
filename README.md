@@ -4,4 +4,5 @@
 ## TABLA DE CONTENIDO
 
 [1. Antiderivadas y problemas de aplicación](https://colab.research.google.com/github/josorio398/CALCULO-INTEGRAL-CON-PYTHON/blob/main/Antiderivadas_y_aplicaciones_con_Python.ipynb)
-[2. Sumas de Riemann](https://colab.research.google.com/github/josorio398/CALCULO-INTEGRAL-CON-PYTHON/blob/main/Antiderivadas_y_aplicaciones_con_Python.ipynb)
+
+[2. Sumas de Riemann](https://colab.research.google.com/github/josorio398/CALCULO-INTEGRAL-CON-PYTHON/blob/main/Sumas_de_Riemann_con_Python.ipynb)
