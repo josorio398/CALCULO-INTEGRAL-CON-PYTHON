@@ -3,4 +3,5 @@
 
 ## TABLA DE CONTENIDO
 
-[1. Intiderivadas y problemas de aplicación](https://colab.research.google.com/github/josorio398/CALCULO-INTEGRAL-CON-PYTHON/blob/main/C%C3%A1lculo_integral_con_Python_Integrales_indefinidas%2C_definidas_y_teorema_fundamental_del_c%C3%A1lculo_.ipynb)
+[1. Antiderivadas y problemas de aplicación](https://colab.research.google.com/github/josorio398/CALCULO-INTEGRAL-CON-PYTHON/blob/main/Antiderivadas_y_aplicaciones_con_Python.ipynb)
+[2. Sumas de Riemann](https://colab.research.google.com/github/josorio398/CALCULO-INTEGRAL-CON-PYTHON/blob/main/Antiderivadas_y_aplicaciones_con_Python.ipynb)
